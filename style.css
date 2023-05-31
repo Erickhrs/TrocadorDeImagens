@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+}
+#input_pic{
+    display: block;
+    margin: 0 auto;
+}
+#pic{
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 30%;
+    max-width: 30%;
+    max-height: auto;
+    border-radius: 10%;
+}
+#change{
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color:rgb(238, 82, 82);
+    border: none;
+    border-radius: 5px;
+    max-width: 150px;
+    height: 20px;
+    cursor: pointer;
+}
+body{
+max-width: 100%;
+background-image: linear-gradient(to right, #814c7e, #083263);
+}
